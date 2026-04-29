@@ -74,7 +74,7 @@ A Seção **2.2** acrescenta a comparação **30 vs 60 épocas** exigida pelo en
 
 ## Resultados em uma frase
 
-O **YOLO Customizado** vence a comparação no nosso problema, com `mAP50` geral de **0.645** (faca 0.928, celular 0.363). O **YOLO Padrão** funciona como baseline barato porque o COCO contém `knife` e `cell phone`, mas não generalizaria para objetos fora dessas 80 classes. A **CNN do Zero** evidencia o limite teórico de treinar uma rede convolucional sem transfer learning em um dataset de 80 imagens — útil pedagogicamente, não em produção.
+O **YOLO Customizado** vence a comparação no nosso problema, com `mAP50` geral de **0.645** (celular 0.928, faca 0.363). O **YOLO Padrão** funciona como baseline barato porque o COCO contém `knife` e `cell phone`, mas não generalizaria para objetos fora dessas 80 classes. A **CNN do Zero** evidencia o limite teórico de treinar uma rede convolucional sem transfer learning em um dataset de 80 imagens — útil pedagogicamente, não em produção.
 
 A maior alavanca de melhoria identificada **não é o modelo, é o dataset**: ampliar a coleção de imagens de `celular` em contextos variados (mãos, mesas, capas, frente/verso, iluminação variável) tende a elevar o `mAP50` dessa classe para 0.7+ sem qualquer mudança arquitetural.
 
