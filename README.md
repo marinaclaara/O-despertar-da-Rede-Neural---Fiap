@@ -10,8 +10,10 @@
 
 | Aluno | RM | Responsabilidade |
 |---|---|---|
-| Yasmin Nesili | _(RM)_ | Entrega 1 — YOLO Customizado |
+| Bruno de Souza Leite | 567213 | Ir Além — ESP32-CAM / Transfer Learning |
 | **Jonathan Gomes Ribeiro Franco** | **567109** | Entrega 2 — Comparativo (YOLO Padrão + CNN do Zero) |
+| Marina Clara Constantino Ribeiro | 568576 | Repositório e integração |
+| Yasmin Kauane Silva Lima | 566645 | Entrega 1 — YOLO Customizado |
 
 ---
 
