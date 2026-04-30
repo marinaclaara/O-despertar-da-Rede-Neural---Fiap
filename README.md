@@ -70,7 +70,7 @@ A Seção **2.2** acrescenta a comparação **30 vs 60 épocas** exigida pelo en
 
 - **Notebook da Entrega 1** (YOLO Customizado): [`flexmediafiap.ipynb`](https://colab.research.google.com/drive/1h1QxcJ60BhpxJAFZL8Rsakuj4Xa7mQtA)
 - **Notebook da Entrega 2** (Comparativo): `entrega2_comparativo/JonathanGomesRibeiroFranco_rm567109_pbl_fase6.ipynb`
-- **Vídeo demonstrativo (YouTube, não listado):** _[a inserir após a gravação]_
+- **Vídeo demonstrativo (YouTube, não listado):** _https://youtu.be/HfJYsSF7UV8
 
 ---
 
